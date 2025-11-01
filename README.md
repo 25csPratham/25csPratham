@@ -34,9 +34,3 @@ It may include small coding exercises, beginner projects, or anything I’m curr
 - **Tools:** VS Code, Git, GitHub  
 
 ---
-
-## ⚙️ How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/25csPratham/pratham-codemaster.git
